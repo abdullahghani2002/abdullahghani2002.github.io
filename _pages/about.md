@@ -1,49 +1,49 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello there, I'm Abdullah"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I’m a final-year BS CS student (aspiring for Ph.D.) at the [Lahore University of Management and Sciences](https://lums.edu.pk/). My research interests span the domain of privacy and digital safety, focusing on designing secure, trustworthy, and reliable systems. To this end, I have actively engaged in extensive research projects that have resulted in thorough work observing firsthand the risks posed to everyday users by systems that create a false sense of trust and safety unprecedented levels.
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-A data-driven personal website
+Research Experience
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Since my Sophomore year, I have worked on an extensive research project supervised by [Dr. Ihsan Ayyub Qazi](ihsanqazi.com), investigating the role of Large Language Models (LLMs) in the context of misinformation. To approach the problem, we curated an extensive, high-quality dataset of real-world claims and evaluated LLMs using zero-shot, unstructured prompts—a setup designed to reflect a typical layperson's usage, unlike prior studies. Our downstream analysis uncovered several compelling insights, including evidence of regional, multilingual, and psychological biases in LLMs, their potential to propagate misinformation, and areas where improvements are needed across state-of-the-art models. Owing to the scale, originality, and robustness of our findings, we are finalizing a draft for submission to the prestigious journal **[Science](https://www.science.org/)**.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I have also been working under the supervision of [Dr. Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/) and [Dr. Fareed Zaffar](https://dblp.org/pid/59/3605.html) since my junior year to develop a system that uncovers how websites track user behavior using the Meta Pixel over time. While developers can access public-facing files configuring the Meta Pixel, no prior research has analyzed the minified and obfuscated code these files contain. Leveraging sophisticated crawlers, I detected the presence of the Meta Pixel and retrieved historical configuration files using the [Wayback Machine](https://wayback.archive.org/). I then developed custom parsers using code-diff tools along with a detailed differential analysis to facilitate our understanding of the source code. As a result, I designed a first-of-its-kind public-facing tool, [Pixel Excavator](https://pixel-frontend-1glb.onrender.com/), enabling users to analyze the tracking behaviors of prominent and sensitive websites. As a case study, we are currently analyzing AMA hospital websites. Preliminary findings indicate that while Meta has implemented some restrictions on tracking visitor data on sensitive sites, several loopholes persist. Building on these results, we aim to refine our analysis and submit our work to **[ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/)**. A current draft of the paper can be accesses from [here](/files/pixeldraft.pdf). 
 
-Getting started
+As part of a course project, I recently also worked with [Dr. Masooda Bashir](https://ischool.illinois.edu/people/masooda-bashir)'s group, where I conducted a study analyzing over 50,000 user reviews of popular health chatbot applications. Evaluating both BART and Gemini, I identified user sentiments and privacy-intrusive concerns, uncovering novel risks associated with healthchatbots directly felt by users. The research proposed a scalable framework to address these privacy challenges while offering actionable insights to enhance user privacy and data security in AI-driven health applications. The findings are currently under review in the _Symposium on Usable Security and Privacy (USEC) 2025_.
+
+Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+***Decoding User Concerns in AI Health Chatbots***: An Exploration of Security and Privacy in
+App Reviews: Muhammad Hassan, **Abdullah Ghani**, Muhammad Fareed Zaffar, Masooda Bashir
+(Under Review in Symposium on Usable Security and Privacy (USEC) 2025)
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Teaching Experience
+======
+1. **Data Science**   |   (Fall 2024)
+2. **Data Structures**   |   (Spring 2024)
+3. **Discrete Mathematics**   |   (Fall 2023)
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Adopting the role of a teaching assitant has allowed me to creatively design programming assignments from scratch (e.g.,
+on AVL Trees in C++ or Causal Inference in Python), structure comprehensive exams and quizzes, deliver
+live tutorials, use code-similarity checkers (JPlag) and supervise semester-long research and application-based
+data science projects - all in all solidifying my understanding of the courses in various, unanticipated ways
 
-**Markdown generator**
+Awards and Honours
+======
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+- Full Merit Scholarship Award: Awarded every year to the top 3 students from LUMS SBASSE Batch of
+2025 (260+ students) for the 2022-2023, 2023-2024, and 2024-2025 academic years.
+- Dean’s Honor List: Awarded for the 2021-2022, 2022-2023, and 2023-2024 academic years.
+- Scored an A+ in more than 70% courses taken.
+- Top 20 National Mathematics Talent Contest: Shortlisted from candidates across Pakistan to represent Pakistan at the International Mathematics Olympiad.
+- Top Candidate at School (A Levels): Scored the highest grades at Lahore Grammar School Defence
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Miscellaneous
+======
+- A very helpful [resource](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf) for graduate school applications that greatly aided me in my graduate applications.
+- Some [old yet golden wisdom](https://ihsan-qazi.blogspot.com/2010/08/few-pieces-of-advice-i-gave-to-my.html) from one of my mentors, Dr. Ihsan Ayyub Qazi, that I resolve to keep in mind going forward!

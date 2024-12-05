@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Abdullah Ghani"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Lahrore"
-  employer         : "Lahore University of Management Sciences (LUMS)"
+  bio              : "BS CS Student at the Lahore University of Management Sciences (LUMS)"
+  location         : "Lahore, Pakistan"
+  employer         : ""
   uri              : # URL
   email            : "abdullahghani2002@gmail.com" 
 
