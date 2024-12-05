@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 I’m a final-year BS CS student (and aspiring Ph.D. candidate) at the [Lahore University of Management Sciences](https://lums.edu.pk/). My research interests span the domains of **digital safety and privacy**, with a focus on designing secure, trustworthy, and reliable systems. To this end, I have actively engaged in extensive research projects that have resulted in thorough
-work observing firsthand the risks posed to everyday users by systems that create a false sense of trust and safety.
+work, allowing me to observe firsthand the risks posed to everyday users by systems that create a false sense of trust and safety.
 
 ## Research Experience
 
