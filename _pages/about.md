@@ -10,7 +10,7 @@ I’m a final-year BS CS student (and aspiring Ph.D. candidate) at the [Lahore U
 work, allowing me to observe firsthand the risks posed to everyday users by systems that create a false sense of trust and safety.
 
 
-<h2 style="color: #555;">Research Experience</h3>
+<span style="color: #555;">Research Experience</span>
 
 <h3 style="color: #555;">Misinformation and Digital Safety</h3>
 Since my sophomore year, I have been working on an ambitious research project under the supervision of [Dr. Ihsan Ayyub Qazi](https://ihsanqazi.com), investigating how Large Language Models (LLMs) function as fact-checkers in the context of misinformation. To address this challenge, we curated a meticulously annotated, high-quality dataset of over 200,000 real-world claims and evaluated LLMs using zero-shot, unstructured prompts. This approach, designed to mirror a typical layperson's interaction, demanded substantial manual effort to ensure accuracy and reliability. Our downstream analysis revealed fascinating insights, such as the presence of **regional, multilingual, and psychological biases** in LLMs, their potential to propagate misinformation, and areas for improvement in state-of-the-art models. Owing to the **scale, originality, and rigor** of our findings, we are finalizing a draft for submission to the prestigious journal **[Science](https://www.science.org/)**.
