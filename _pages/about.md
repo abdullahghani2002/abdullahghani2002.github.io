@@ -24,7 +24,7 @@ As part of a course project, I also worked with **[Dr. Masooda Bashir](https://i
 ## Publications
 
 ***Decoding User Concerns in AI Health Chatbots***: An Exploration of Security and Privacy in App Reviews: Muhammad Hassan, **Abdullah Ghani**, Muhammad Fareed Zaffar, Masooda Bashir  
-_(Under Review at Symposium on Usable Security and Privacy (USEC) 2025)_
+_(Submitted to Symposium on Usable Security and Privacy (USEC) 2025)_
 
 ## Teaching Experience
 
