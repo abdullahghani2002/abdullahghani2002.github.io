@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m a final-year BS CS student (and aspiring Ph.D. candidate) at the [Lahore University of Management Sciences](https://lums.edu.pk/). I investigate how large-scale networked systems and applications impact users on the web through measurements, highlighting gaps in privacy, safety, and trust between systems and society. Consequently, I am interested in developing systems that mitigate these issues. .
+I’m a recent BS CS graduate (and aspiring Ph.D. candidate) from the [Lahore University of Management Sciences](https://lums.edu.pk/). I investigate how large-scale networked systems and applications impact users on the web through measurements, highlighting gaps in privacy, safety, and trust between systems and society. Consequently, I am interested in developing systems that mitigate these issues. .
 
 
 ## Research Experience
