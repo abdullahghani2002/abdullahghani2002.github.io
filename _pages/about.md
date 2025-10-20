@@ -17,37 +17,65 @@ I am currently seeking PhD positions in Computer Science for Fall 2026.
 *   **October 2025:** Our work on auditing children's advertising on YouTube was submitted to **The ACM Web Conference (WWW) 2026**.
 *   **August 2025:** Our paper on the "confidence paradox" in AI fact-checking is now under review at **Nature Scientific Reports**.
 
-## Selected Publications
-
-*(Note: The most effective academic websites often have a dedicated "Publications" page, but for a single-page site, this is the best format.)*
+## Publications
 
 **PixelConfig: Longitudinal Measurement and Reverse-Engineering of Meta Pixel Configurations**  
 <u>Abdullah Ghani</u>, Yash Vekaria, Zubair Shafiq.  
 *Under one-shot revision, ACM Internet Measurement Conference (IMC) 2025.*  
-[PDF](/files/PixelConfig_Paper.pdf) | [Code](https://github.com/your-repo-link) | [Website](/pixelconfig-project-page)
+[PDF](/files/pixelconfig.pdf) | [Code](After Publication) | [Tool](https://pixel-frontend-1glb.onrender.com/)
 
 **Advertisers, Provenance, and Policy: A 30-Country Audit of Children’s YouTube Ads**  
 <u>Abdullah Ghani</u>, Yahya Khawaja, Usman Naseem, Ihsan Ayyub Qazi, Zafar Ayyub Qazi.  
 *Under review, The ACM Web Conference (WWW) 2026.*  
-[PDF](/files/YouTubeAds_Paper.pdf) | [Data](https://github.com/your-repo-link)
+[PDF](/files/safe_online.pdf) | [Data](After Publication)
 
 **Scaling Truth: The Confidence Paradox in AI Fact-Checking**  
-Ihsan Ayyub Qazi, Zohaib Khan, <u>Abdullah Ghani</u>, et al.  
+Ihsan Ayyub Qazi, Zohaib Khan, <u>Abdullah Ghani</u>, Agha Ali Raza, Zafar Ayyub Qazi, Wassay Sajjad, Ayesha Ali, Asher Javaid, Muhammad Abdullah Sohail, Abdul Hameed Azeemi
 *Under review, Nature Scientific Reports.*  
-[PDF](/files/ScalingTruth_Paper.pdf) | [Benchmark Dataset](https://github.com/your-repo-link)
+[PDF](/files/scaling_truth.pdf) | [Code](https://drive.google.com/drive/u/2/folders/1ySG6PORa59TpDHTIxddMhoU7m5_sbe6N) | [Data](https://drive.google.com/drive/u/2/folders/1ySG6PORa59TpDHTIxddMhoU7m5_sbe6N)
 
-**Decoding User Concerns in AI Health Chatbots: An Exploration of Security and Privacy in App Reviews**  
-Muhammad Hassan, <u>Abdullah Ghani</u>, Muhammad Fareed Zaffar, Masooda Bashir.  
-*arXiv preprint, arXiv:2502.00067.*  
-[arXiv Link](https://arxiv.org/abs/2502.00067)
 
----
-*(You would then remove the old "Research Experience" and "Publications" sections from this page. Those detailed paragraphs are perfect for creating separate project pages later, which you can link to.)*
+## Other Research Projects
+
+In addition to my primary publications, I have also contributed to the following projects:
+
+*   **Embedding The Truth: Approximate Caching for Fact Checking**  
+    *Course Project for CS6303: Topics in Large Language Models.* Explored the feasibility of reusing fact-checking claims across organizations to improve efficiency. Used an approximate caching approach with multilingual embeddings in a vector database to identify recurring claims. [[PDF]](/files/embeddingthetruth.pdf)
+
+*   **Decoding User Concerns in AI Health Chatbots**  
+    *Course Project for CS682: Topics in Computer and Network Security.* Collected and analyzed over 50,000+ user reviews from health chatbot apps using BART and Gemini to assess their effectiveness compared to manual analysis and to qualitatively examine user concerns related to data misuse, transparency, and consent.
+    [[arXiv Link](https://arxiv.org/abs/2502.00067)] | [[Got Cited by Google!](https://arxiv.org/pdf/2508.19932)]
+
+### Current & Ongoing Research
+As the lead of the Internet, Data, and Society lab, I am currently working on the following problems:
+*   **Fidelity of LLMs in Clinical Settings:** Evaluating the clinical fidelity of Large Language Models on real-world medical vignettes. *Findings targeted for BMJ Digital Health & AI*.
+*   **Disinformation Dynamics in Geopolitical Conflicts:** Conducting a systematic, cross-platform analysis of the spread and engagement dynamics of disinformation during a geopolitical conflict.
+*   **Reasoning and Bias in LLMs as Participants:** Investigating the reasoning behaviors and regional biases manifested when using Large Language Models as proxies for human participants.
+
+## Development & Software Projects
+Beyond my formal research, I enjoy building software that solves interesting technical challenges and deepens my understanding of core computer science principles.
+
+*   **Distributed, Fault-Tolerant Key-Value Store**  
+    *(Go)*: Engineered a distributed data store from scratch, implementing the Raft consensus algorithm to achieve fault tolerance through leader election and persistent log replication. [[GitHub](https://github.com/abdullahghani2002/RAFT---Distributed-Fault-Tolerant-Key-Value-Store)]
+
+*   **Virtual UNIX File System**  
+    *(C)*: Implemented a UNIX-like virtual file system with a partitioned architecture of superblocks, inodes, and data blocks to manage low-level file I/O operations. [[GitHub](https://github.com/abdullahghani2002/UNIX-File-System)]
+
+*   **User-Level Threading Library**  
+    *(C)*: Developed a lightweight threading library that enables application-level context switching by directly managing CPU registers and process control blocks (PCBs). [[GitHub](https://github.com/abdullahghani2002/User-Level-Threading-Library)]
+
+*   **Succession Planning Software**  
+    *(MERN Stack, TensorFlow)*: Designed and built a full-stack application that uses a TensorFlow model to analyze performance data and identify high-potential candidates for leadership roles. [[GitHub](https://github.com/Mustafa-79/Succession-Planning)]
+
+*   **PakStay Advisor**  
+    *(Python, Scikit-learn)*: Created an end-to-end data science project that scrapes hotel data and uses predictive models to provide profitability and reliability insights for both travelers and hotel managers. [[Blog](https://medium.com/@jawad.saeed586/extracting-insights-from-booking-com-hotels-using-machine-learning-e24fcc8f15f0)]
+
 ## Teaching Experience
 
-1. **Data Science**              (Fall 2024)  
-2. **Data Structures**           (Spring 2024)  
-3. **Discrete Mathematics**      (Fall 2023)  
+1. **Topics in Large Language Models: Systems and Applications** (Ongoing)
+1. **Data Science**                                              (Fall 2024)  
+2. **Data Structures**                                           (Spring 2024)  
+3. **Discrete Mathematics**                                      (Fall 2023)  
 
 Apart from solidifying my own understanding of these subjects in unanticipated ways, taking on the role of a teaching assistant has allowed me to:
 - Creatively design programming assignments (e.g., AVL Trees in C++, Causal Inference in Python).  
@@ -67,4 +95,5 @@ Apart from solidifying my own understanding of these subjects in unanticipated w
 
 - A very helpful [resource](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf) for graduate school applications that greatly aided me in my journey.  
 - Some [golden advice](https://ihsan-qazi.blogspot.com/2010/08/few-pieces-of-advice-i-gave-to-my.html) from my mentor, Dr. Ihsan Ayyub Qazi, that I strive to follow in my academic and personal growth.
+
 
