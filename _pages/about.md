@@ -11,12 +11,6 @@ I am a recent Computer Science graduate from LUMS, where I achieved the highest 
 
 I am currently seeking PhD positions in Computer Science for Fall 2026.
 
-## Recent News
-
-*   **October 2025:** Our paper, "PixelConfig," on reverse-engineering the Meta Pixel received a **one-shot revision** decision from **ACM IMC 2025**.
-*   **October 2025:** Our work on auditing children's advertising on YouTube was submitted to **The ACM Web Conference (WWW) 2026**.
-*   **August 2025:** Our paper on the "confidence paradox" in AI fact-checking is now under review at **Nature Scientific Reports**.
-
 ## Publications
 
 **PixelConfig: Longitudinal Measurement and Reverse-Engineering of Meta Pixel Configurations**  
