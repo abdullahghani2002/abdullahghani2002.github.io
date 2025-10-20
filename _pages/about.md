@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a recent Computer Science graduate from LUMS, where I achieved the highest GPA in my major (4.00/4.00). My research focuses on conducting large-scale empirical measurements to build more secure, transparent, and trustworthy networked systems. I am passionate about using my findings to inform evidence-based public policy.
+I am a recent Computer Science graduate from LUMS, where I achieved the highest GPA in my major (4.00/4.00). I am broadly interested in networked systems, where I conduct empirical measurements to study how design choices and objectives shape users’ Internet experiences at scale. My broader goal is to leverage these insights to build efficient, secure, and trustworthy systems and to inform evidence-based public policy.
+
+Previously,I have conducted large-scale measurement studies analyzing global variations in child-safety experiences and investigating the risks and opportunities of large language models in global fact-checking as lead of the **Internet, Data, and Society Lab** at LUMS, advised by **[Dr. Ihsan Ayyub Qazi](https://ihsanqazi.com)** and **[Dr. Zafar Ayyub Qazi](https://www.lums.edu.pk/lums_employee/3337)**. I have also collaborated with **[Dr. Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/)** (UC Davis) and Dr. Fareed Zaffar on large-scale measurement and reverse engineering of web tracking technologies.
 
 I am currently seeking PhD positions in Computer Science for Fall 2026.
 
@@ -31,7 +33,7 @@ Ihsan Ayyub Qazi, Zohaib Khan, <u>Abdullah Ghani</u>, Agha Ali Raza, Zafar Ayyub
 
 ## Other Research Projects
 
-In addition to my primary publications, I have also contributed to the following projects:
+In addition to the aforementioned projects, I have also contributed to the following projects:
 
 *   **Embedding The Truth: Approximate Caching for Fact Checking**  
     *Course Project for CS6303: Topics in Large Language Models.* Explored the feasibility of reusing fact-checking claims across organizations to improve efficiency. Used an approximate caching approach with multilingual embeddings in a vector database to identify recurring claims. [[PDF]](/files/embeddingthetruth.pdf)
@@ -39,6 +41,7 @@ In addition to my primary publications, I have also contributed to the following
 *   **Decoding User Concerns in AI Health Chatbots**  
     *Course Project for CS682: Topics in Computer and Network Security.* Collected and analyzed over 50,000+ user reviews from health chatbot apps using BART and Gemini to assess their effectiveness compared to manual analysis and to qualitatively examine user concerns related to data misuse, transparency, and consent.
     [[arXiv Link](https://arxiv.org/abs/2502.00067)] | [[Got Cited by Google!](https://arxiv.org/pdf/2508.19932)]
+
 
 ### Current & Ongoing Research
 As the lead of the Internet, Data, and Society lab, I am currently working on the following problems:
