@@ -6,25 +6,43 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m a recent BS CS graduate (and aspiring Ph.D. candidate) from the [Lahore University of Management Sciences](https://lums.edu.pk/). I investigate how large-scale networked systems and applications impact users on the web through measurements, highlighting gaps in privacy, safety, and trust between systems and society. Consequently, I am interested in developing more reliable, transparent, and accessible networked systems.
 
+I am a recent Computer Science graduate from LUMS, where I achieved the highest GPA in my major (4.00/4.00). My research focuses on conducting large-scale empirical measurements to build more secure, transparent, and trustworthy networked systems. I am passionate about using my findings to inform evidence-based public policy.
 
-## Research Experience
+I am currently seeking PhD positions in Computer Science for Fall 2026.
 
-### Misinformation and Digital Safety
-Since my sophomore year, I have been working on an ambitious research project under the supervision of **[Dr. Ihsan Ayyub Qazi](https://ihsanqazi.com)**, investigating how Large Language Models (LLMs) function as fact-checkers in the context of misinformation. To address this challenge, we curated a meticulously annotated, high-quality dataset of over 200,000 real-world claims and evaluated LLMs using zero-shot, unstructured prompts. This approach, designed to mirror a typical layperson's interaction, demanded substantial manual effort to ensure accuracy and reliability. Our downstream analysis revealed fascinating insights, such as the presence of **regional, lingual, and psychological biases** in LLMs, their potential to propagate misinformation, and areas for improvement in state-of-the-art models. Owing to the **scale, originality, and rigor** of our findings, we are finalizing a draft for submission to the prestigious journal **[Science](https://www.science.org/)**.
+## Recent News
 
-### Privacy and Meaurement
-Since my junior year, I have also been collaborating with **[Dr. Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/)** and **[Dr. Fareed Zaffar](https://dblp.org/pid/59/3605.html)** to develop a system that uncovers how websites track user behavior using the **Meta Pixel** over time. Although developers can access public-facing configuration files of the Meta Pixel, no prior research has delved into the **minified and obfuscated code** within these files. Using advanced crawlers, I detected the Meta Pixel's presence across websites and retrieved historical configurations via the [Wayback Machine](https://wayback.archive.org/). By building **custom parsers** and performing detailed **differential analyses**, I facilitated a deeper understanding of this tracking technology. As a result, I have designed **[Pixel Excavator](https://pixel-frontend-1glb.onrender.com/)**, a first-of-its-kind public-facing tool enabling users to analyze the tracking behaviors of prominent and sensitive websites. As a case study, we are now analyzing AMA hospital websites, uncovering that while Meta has implemented restrictions on tracking sensitive visitor data, **significant loopholes remain**. We aim to submit these findings to **[ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/)**. 
+*   **October 2025:** Our paper, "PixelConfig," on reverse-engineering the Meta Pixel received a **one-shot revision** decision from **ACM IMC 2025**.
+*   **October 2025:** Our work on auditing children's advertising on YouTube was submitted to **The ACM Web Conference (WWW) 2026**.
+*   **August 2025:** Our paper on the "confidence paradox" in AI fact-checking is now under review at **Nature Scientific Reports**.
 
-### Usable Security and Privacy
-As part of a course project, I also worked with **[Dr. Masooda Bashir](https://ischool.illinois.edu/people/masooda-bashir)'s** group on analyzing **50,000+ user reviews** collected from popular health chatbot applications, employing manual as well as automated evaluations through **BART** and **Gemini**. The study uncovered **security-privacy-related concerns** and user sentiments, highlighting apprehensions felt directly by the users. We proposed a **scalable framework** to identifying such concerns at large scales of reviews, along with a qualitative analysis of the privacy-security-related concerns identified in our sample. The findings are currently under review at the **Symposium on Usable Security and Privacy (USEC) 2025**.
+## Selected Publications
 
-## Publications
+*(Note: The most effective academic websites often have a dedicated "Publications" page, but for a single-page site, this is the best format.)*
 
-***Decoding User Concerns in AI Health Chatbots***: An Exploration of Security and Privacy in App Reviews: Muhammad Hassan, **Abdullah Ghani**, Muhammad Fareed Zaffar, Masooda Bashir  
-_(Submitted to Symposium on Usable Security and Privacy (USEC) 2025)_
+**PixelConfig: Longitudinal Measurement and Reverse-Engineering of Meta Pixel Configurations**  
+<u>Abdullah Ghani</u>, Yash Vekaria, Zubair Shafiq.  
+*Under one-shot revision, ACM Internet Measurement Conference (IMC) 2025.*  
+[PDF](/files/PixelConfig_Paper.pdf) | [Code](https://github.com/your-repo-link) | [Website](/pixelconfig-project-page)
 
+**Advertisers, Provenance, and Policy: A 30-Country Audit of Children’s YouTube Ads**  
+<u>Abdullah Ghani</u>, Yahya Khawaja, Usman Naseem, Ihsan Ayyub Qazi, Zafar Ayyub Qazi.  
+*Under review, The ACM Web Conference (WWW) 2026.*  
+[PDF](/files/YouTubeAds_Paper.pdf) | [Data](https://github.com/your-repo-link)
+
+**Scaling Truth: The Confidence Paradox in AI Fact-Checking**  
+Ihsan Ayyub Qazi, Zohaib Khan, <u>Abdullah Ghani</u>, et al.  
+*Under review, Nature Scientific Reports.*  
+[PDF](/files/ScalingTruth_Paper.pdf) | [Benchmark Dataset](https://github.com/your-repo-link)
+
+**Decoding User Concerns in AI Health Chatbots: An Exploration of Security and Privacy in App Reviews**  
+Muhammad Hassan, <u>Abdullah Ghani</u>, Muhammad Fareed Zaffar, Masooda Bashir.  
+*arXiv preprint, arXiv:2502.00067.*  
+[arXiv Link](https://arxiv.org/abs/2502.00067)
+
+---
+*(You would then remove the old "Research Experience" and "Publications" sections from this page. Those detailed paragraphs are perfect for creating separate project pages later, which you can link to.)*
 ## Teaching Experience
 
 1. **Data Science**              (Fall 2024)  
