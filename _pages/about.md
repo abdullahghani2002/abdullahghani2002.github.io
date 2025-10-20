@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+- abdullah [dot] ghani [at] lums [dot] edu [dot] pk
+- abdullahghani2002 [at] gmail [dot] com
+
 I am a recent Computer Science graduate from LUMS, where I achieved the highest GPA in my major (4.00/4.00). I am broadly interested in networked systems, where I conduct empirical measurements to study how design choices and objectives shape users’ Internet experiences at scale. My broader goal is to leverage these insights to build efficient, secure, and trustworthy systems and to inform evidence-based public policy.
 
 Previously,I have conducted large-scale measurement studies analyzing global variations in child-safety experiences and investigating the risks and opportunities of large language models in global fact-checking as lead of the **Internet, Data, and Society Lab** at LUMS, advised by **[Dr. Ihsan Ayyub Qazi](https://ihsanqazi.com)** and **[Dr. Zafar Ayyub Qazi](https://www.lums.edu.pk/lums_employee/3337)**. I have also collaborated with **[Dr. Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/)** (UC Davis) and Dr. Fareed Zaffar on large-scale measurement and reverse engineering of web tracking technologies.

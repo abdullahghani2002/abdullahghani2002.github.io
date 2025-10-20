@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Abdullah Ghani"
-  pronouns         : # example: "she/her"  
-  bio              : "BS CS Student at the Lahore University of Management Sciences (LUMS)"
+  pronouns         : # example: ""  
+  bio              : "BS Computer Science (2025), Lahore University of Management Sciences (LUMS)"
   location         : "Lahore, Pakistan"
   employer         : "LUMS"
   uri              : # URL
-  email            : "abdullahghani2002@gmail.com" 
+  email            : "abdullah.ghani@lums.edu.pk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
