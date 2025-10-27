@@ -94,12 +94,12 @@ Apart from solidifying my own understanding of these subjects in unanticipated w
 ## Miscellaneous
 
 - A very helpful [resource](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf) for graduate school applications that greatly aided me in my journey.  
-- Some [golden advice](https://ihsan-qazi.blogspot.com/2010/08/few-pieces-of-advice-i-gave-to-my.html) from my mentor, Dr. Ihsan Ayyub Qazi, that I strive to follow in my academic and personal growth.
+- Some [golden advice](https://ihsan-qazi.blogspot.com/2010/08/few-pieces-of-advice-i-gave-to-my.html) from my mentor, Dr. Ihsan, that I strive to follow in my academic and personal growth.
 - I wish I could find the time to swim everyday, it does wonders.
 - When I'm not working, I love exploring and spending time alone with nature. It's my way of disconnecting and recharging. Here is a photo from a recent, arduous trek I made to Chitta Katha Lake in the Himalayas!
 
 <div style="text-align: center;">
     <img src="/files/chitta.jpeg" alt="A photo from my trek to Chitta Katha Lake" style="max-width: 80%; border-radius: 8px;">
-    <p><em>Chitta Katha Lake, Shounter Valley.</em></p>
+    <p><em>Enroute to Chitta Katha Lake, Shounter Valley.</em></p>
 </div>
 
