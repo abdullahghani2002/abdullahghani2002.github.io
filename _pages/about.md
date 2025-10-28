@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there, I'm Abdullah"
+title: "Hello there, I'm Abdullah, an aspiring Ph.D. candidate!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,11 +10,11 @@ redirect_from:
 - abdullah [dot] ghani [at] lums [dot] edu [dot] pk
 - abdullahghani2002 [at] gmail [dot] com
 
-I am a recent Computer Science graduate from LUMS, where I achieved the highest GPA in my major (4.00/4.00). I am broadly interested in networked systems, where I conduct empirical measurements to study how design choices and objectives shape users’ Internet experiences at scale. My broader goal is to leverage these insights to build efficient, secure, and trustworthy systems and to inform evidence-based public policy.
+I am broadly interested in networked systems, where I conduct empirical measurements to study how design choices and objectives shape users’ internet experiences at scale. My broader goal is to leverage these insights to build efficient, secure, and trustworthy systems and to inform evidence-based public policy. Recently, I graduated from the Lahore University of Management Sciences, Pakistan with a 4.0/4.0, joint-highest in my major (1/165).
 
-Previously, I have conducted large-scale measurement studies analyzing global variations in child-safety experiences and investigating the risks and opportunities of large language models in global fact-checking as lead of the **Internet, Data, and Society Lab** at LUMS, advised by **[Dr. Ihsan Ayyub Qazi](https://ihsanqazi.com)** and **[Dr. Zafar Ayyub Qazi](https://www.lums.edu.pk/lums_employee/3337)**. I have also collaborated with **[Dr. Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/)** (UC Davis) and **[Dr. Fareed Zaffar](https://dblp.org/pid/59/3605.html)** on developing a framework for reverse engineering the configurations of online web trackers across the web.
+Previously, I have conducted large-scale measurement studies analyzing global variations in child-safety experiences and investigating the risks and opportunities of large language models in global fact-checking as lead of the **Internet, Data, and Society Lab** at LUMS, advised by **[Dr. Ihsan Ayyub Qazi](https://ihsanqazi.com)** and **[Dr. Zafar Ayyub Qazi](https://www.lums.edu.pk/lums_employee/3337)**. I have also collaborated with **[Dr. Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/)** (UC Davis) and **[Dr. Fareed Zaffar](https://dblp.org/pid/59/3605.html)** on developing a system for reverse engineering the configurations of online web trackers across the web.
 
-I am currently seeking PhD positions in Computer Science for Fall 2026.
+I am currently seeking Ph.D. positions in Computer Science for Fall 2026.
 
 ## Publications
 
@@ -30,7 +30,7 @@ I am currently seeking PhD positions in Computer Science for Fall 2026.
 
 **Scaling Truth: The Confidence Paradox in AI Fact-Checking**  
 Ihsan Ayyub Qazi, Zohaib Khan, <u>Abdullah Ghani</u>, Agha Ali Raza, Zafar Ayyub Qazi, Wassay Sajjad, Ayesha Ali, Asher Javaid, Muhammad Abdullah Sohail, Abdul Hameed Azeemi
-*Under review, Nature Scientific Reports.*  
+*R&R, Nature Scientific Reports.*  
 [PDF](/files/scaling_truth.pdf) | [Code](https://drive.google.com/drive/u/2/folders/1ySG6PORa59TpDHTIxddMhoU7m5_sbe6N) | [Data](https://drive.google.com/drive/u/2/folders/1ySG6PORa59TpDHTIxddMhoU7m5_sbe6N)
 
 
