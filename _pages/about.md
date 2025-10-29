@@ -20,16 +20,17 @@ I am currently seeking Ph.D. positions in Computer Science for Fall 2026.
 
 **PixelConfig: Longitudinal Measurement and Reverse-Engineering of Meta Pixel Configurations**  
 <u>Abdullah Ghani</u>, Yash Vekaria, Zubair Shafiq.  
-*Under one-shot revision, ACM Internet Measurement Conference (IMC) 2025.*  
+*Under one-shot revision, <em>ACM Internet Measurement Conference (IMC) 2025</em>.*  
 [PDF](/files/pixelconfig.pdf) | [Code](After Publication) | [Tool](https://pixel-frontend-1glb.onrender.com/)
 
 **Advertisers, Provenance, and Policy: A 30-Country Audit of Children’s YouTube Ads**  
 <u>Abdullah Ghani</u>, Yahya Khawaja, Usman Naseem, Ihsan Ayyub Qazi, Zafar Ayyub Qazi.  
-*Under review, The ACM Web Conference (WWW) 2026.*  
+*Under review, <em>The ACM Web Conference (WWW) 2026.</em>*  
 
 **Scaling Truth: The Confidence Paradox in AI Fact-Checking**  
 Ihsan Ayyub Qazi, Zohaib Khan, <u>Abdullah Ghani</u>, Agha Ali Raza, Zafar Ayyub Qazi, Wassay Sajjad, Ayesha Ali, Asher Javaid, Muhammad Abdullah Sohail, Abdul Hameed Azeemi
-*Revise and Resubmit, Nature Scientific Reports.*  
+
+*R&R, <em>Nature Scientific Reports.<em>*  
 [PDF](/files/scaling_truth.pdf) | [Code](https://drive.google.com/drive/u/2/folders/1ySG6PORa59TpDHTIxddMhoU7m5_sbe6N) | [Data](https://drive.google.com/drive/u/2/folders/1ySG6PORa59TpDHTIxddMhoU7m5_sbe6N)
 
 
