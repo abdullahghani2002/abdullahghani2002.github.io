@@ -20,7 +20,7 @@ I am currently seeking Ph.D. positions in Computer Science for Fall 2026.
 
 **PixelConfig: Longitudinal Measurement and Reverse-Engineering of Meta Pixel Configurations**  
 <u>Abdullah Ghani</u>, Yash Vekaria, Zubair Shafiq.  
-*Under one-shot revision, <em>ACM Internet Measurement Conference (IMC) 2025</em>.*  
+*one-shot revision, <em>ACM Internet Measurement Conference (IMC) 2025</em>.*  
 [PDF](/files/pixelconfig.pdf) | [Code](After Publication) | [Tool](https://pixel-frontend-1glb.onrender.com/)
 
 **Advertisers, Provenance, and Policy: A 30-Country Audit of Children’s YouTube Ads**  
