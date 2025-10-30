@@ -29,7 +29,7 @@ I am currently seeking Ph.D. positions in Computer Science for Fall 2026.
 
 **Scaling Truth: The Confidence Paradox in AI Fact-Checking**  
 Ihsan Ayyub Qazi, Zohaib Khan, <u>Abdullah Ghani</u>, Agha Ali Raza, Zafar Ayyub Qazi, Wassay Sajjad, Ayesha Ali, Asher Javaid, Muhammad Abdullah Sohail, Abdul Hameed Azeemi<br>
-<b>Nature Scientific Reports, *R&R*.<b>
+<b>Nature Scientific Reports</b>, *R&R*.<br>
 [PDF](/files/scaling_truth.pdf) | [Code](https://drive.google.com/drive/u/2/folders/1ySG6PORa59TpDHTIxddMhoU7m5_sbe6N) | [Data](https://drive.google.com/drive/u/2/folders/1ySG6PORa59TpDHTIxddMhoU7m5_sbe6N)
 
 
