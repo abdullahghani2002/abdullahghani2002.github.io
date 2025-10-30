@@ -12,7 +12,7 @@ redirect_from:
 
 I am broadly interested in networked systems, where I conduct empirical measurements to study how design choices and objectives shape users’ internet experiences at scale. My broader goal is to leverage these insights to build efficient, secure, and trustworthy systems and to inform evidence-based public policy. Recently, I graduated from the Lahore University of Management Sciences, Pakistan with a 4.0/4.0, joint-highest in my major (1/165).
 
-Previously, I have conducted large-scale measurement studies analyzing global variations in child-safety experiences and investigating the risks and opportunities of large language models in global fact-checking as lead of the **Internet, Data, and Society Lab** at LUMS, advised by **[Dr. Ihsan Ayyub Qazi](https://ihsanqazi.com)** and **[Dr. Zafar Ayyub Qazi](https://www.lums.edu.pk/lums_employee/3337)**. I have also collaborated with **[Dr. Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/)** (UC Davis) and **[Dr. Fareed Zaffar](https://dblp.org/pid/59/3605.html)** on developing a system for reverse engineering the configurations of online web trackers across the web.
+ Previously, I have worked extensively on building a framework to longitudinally investigate how online trackers on sensitive websites compromise user privacy (one-shot revision, IMC 2025, advised by **[Dr. Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/)**), conducting an advertiser-level audit of 30 countries to analyze global variations in child-safety on Children's video advertising and building a scalable method to mitigate those risks (under review, The Web Conference 2026, advised by **[Dr. Zafar Ayyub Qazi](https://www.lums.edu.pk/lums_employee/3337)**), and examining the risks and opportunities of large language models (LLMs) in multilingual, global fact-checking (R&R, Nature Scientific Reports, advised by **[Dr. Ihsan Ayyub Qazi](https://ihsanqazi.com)**). I recently graduated from LUMS with a 4.00/4.00 GPA, joint-highest in CS (1/165).
 
 I am currently seeking Ph.D. positions in Computer Science for Fall 2026.
 
@@ -20,17 +20,16 @@ I am currently seeking Ph.D. positions in Computer Science for Fall 2026.
 
 **PixelConfig: Longitudinal Measurement and Reverse-Engineering of Meta Pixel Configurations**  
 <u>Abdullah Ghani</u>, Yash Vekaria, Zubair Shafiq.  
-*one-shot revision, <em>ACM Internet Measurement Conference (IMC) 2025</em>.*  
+*<b>ACM Internet Measurement Conference (IMC) 2025</b>, one-shot revision.*  
 [PDF](/files/pixelconfig.pdf) | [Code](After Publication) | [Tool](https://pixel-frontend-1glb.onrender.com/)
 
 **Advertisers, Provenance, and Policy: A 30-Country Audit of Children’s YouTube Ads**  
 <u>Abdullah Ghani</u>, Yahya Khawaja, Usman Naseem, Ihsan Ayyub Qazi, Zafar Ayyub Qazi.  
-*Under review, <em>The ACM Web Conference (WWW) 2026.</em>*  
+*<b>The ACM Web Conference (WWW) 2026.</b>, under review.*  
 
 **Scaling Truth: The Confidence Paradox in AI Fact-Checking**  
-Ihsan Ayyub Qazi, Zohaib Khan, <u>Abdullah Ghani</u>, Agha Ali Raza, Zafar Ayyub Qazi, Wassay Sajjad, Ayesha Ali, Asher Javaid, Muhammad Abdullah Sohail, Abdul Hameed Azeemi
-
-*R&R, <em>Nature Scientific Reports.<em>*  
+Ihsan Ayyub Qazi, Zohaib Khan, <u>Abdullah Ghani</u>, Agha Ali Raza, Zafar Ayyub Qazi, Wassay Sajjad, Ayesha Ali, Asher Javaid, Muhammad Abdullah Sohail, Abdul Hameed Azeemi<br>
+*<b>Nature Scientific Reports, R&R.<b>*
 [PDF](/files/scaling_truth.pdf) | [Code](https://drive.google.com/drive/u/2/folders/1ySG6PORa59TpDHTIxddMhoU7m5_sbe6N) | [Data](https://drive.google.com/drive/u/2/folders/1ySG6PORa59TpDHTIxddMhoU7m5_sbe6N)
 
 
