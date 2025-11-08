@@ -84,18 +84,18 @@ Apart from solidifying my own understanding of these subjects in unanticipated w
 
 ## Awards and Honours
 
-- **Full Merit Scholarship Award**: Granted to the top 3 students from LUMS SBASSE Batch of 2025 for the 2022-2023, 2023-2024, and 2024-2025 academic years.  
-- **Dean’s Honour List**: Awarded for the 2021-2022, 2022-2023, and 2023-2024 academic years.  
+- **Full Merit Scholarship Award**: Granted to the top 1% students from LUMS SBASSE Batch of 2025 from the 2022-2025 academic years.  
+- **Dean’s Honour List**: Consecutively awarded from 2021-2025 academic years.  
 - **Top Candidate at School (A Levels)**: Achieved the highest grades at Lahore Grammar School Defence.  
 - **Top 20 National Mathematics Talent Contest**: Shortlisted from candidates across Pakistan to represent Pakistan at the International Mathematics Olympiad.
-- **Academic Excellence**: Scored an A+ in over 70% of my courses.
+- **Academic Excellence**: Scored an A+ in over 70% of my graded courses.
 
 ## Miscellaneous
 
 - A very helpful [resource](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf) for graduate school applications that greatly aided me in my journey.  
 - Some [golden advice](https://ihsan-qazi.blogspot.com/2010/08/few-pieces-of-advice-i-gave-to-my.html) from my mentor, Dr. Ihsan, that I strive to follow in my academic and personal growth.
 - I wish I could find the time to swim everyday, it does wonders.
-- When I'm not working, I love exploring and spending time alone with nature. It's my way of disconnecting and recharging. Here is a photo from a recent, arduous trek I made to Chitta Katha Lake in the Himalayas!
+- When I'm not working, I love exploring and spending time alone with nature. Here is a photo from a recent, arduous trek I made to Chitta Katha Lake in the Himalayas!
 
 <div style="text-align: center;">
     <img src="/files/chitta.jpeg" alt="A photo from my trek to Chitta Katha Lake" style="max-width: 80%; border-radius: 8px;">
