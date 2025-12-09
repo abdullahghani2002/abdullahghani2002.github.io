@@ -10,11 +10,11 @@ redirect_from:
 - abdullah [dot] ghani [at] lums [dot] edu [dot] pk
 - abdullahghani2002 [at] gmail [dot] com
 
-I am broadly interested in networked systems, where I conduct empirical measurements to study how design choices and objectives shape users’ internet experiences at scale. My broader goal is to leverage these insights to build efficient, secure, and trustworthy systems and to inform evidence-based public policy. Recently, I graduated from the Lahore University of Management Sciences, Pakistan with a 4.00/4.00, joint-highest in CS (1/165), advised by **[Dr. Ihsan Ayyub Qazi](https://ihsanqazi.com)** and **[Dr. Zafar Ayyub Qazi](https://www.lums.edu.pk/lums_employee/3337)**.
+I am broadly interested in networked systems. Recently, I graduated from the Lahore University of Management Sciences, Pakistan with a 4.00/4.00, joint-highest in my batch (1/274), advised by **[Dr. Ihsan Ayyub Qazi](https://ihsanqazi.com)** and **[Dr. Zafar Ayyub Qazi](https://www.lums.edu.pk/lums_employee/3337)**.
 
  Previously, I have worked extensively on building a framework to longitudinally investigate how online trackers on sensitive websites compromise user privacy (one-shot revision, IMC 2025, advised by **[Dr. Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/)**), conducting an advertiser-level audit across 30 countries to evaluate global disparities in child-safety practices in children’s video advertising and building a scalable method to mitigate associated risks (under review, The Web Conference 2026), and examining the risks and opportunities of large language models (LLMs) in multilingual, global fact-checking (R&R, Nature Scientific Reports).
 
-I am currently seeking Ph.D. positions in Computer Science for Fall 2026.
+I am currently seeking Ph.D. positions for Fall 2026.
 
 ## Publications
 
