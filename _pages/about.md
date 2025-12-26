@@ -23,14 +23,16 @@ I am currently seeking Ph.D. positions for Fall 2026.
 <b>ACM Internet Measurement Conference (IMC) 2025</b>, *one-shot revision*.  
 [PDF](/files/pixelconfig.pdf) | [Code](After Publication) | [Tool](https://pixel-frontend-1glb.onrender.com/)
 
+**Scaling Truth: The Confidence Paradox in AI Fact-Checking**  
+Ihsan Ayyub Qazi, Zohaib Khan, <u>Abdullah Ghani</u>, Agha Ali Raza, Zafar Ayyub Qazi, Wassay Sajjad, Ayesha Ali, Asher Javaid, Muhammad Abdullah Sohail, Abdul Hameed Azeemi<br>
+<b>Nature Scientific Reports</b>, *Accepted*.<br>
+[PDF](/files/scaling_truth.pdf) | [Code](https://drive.google.com/drive/u/2/folders/1ySG6PORa59TpDHTIxddMhoU7m5_sbe6N) | [Data](https://drive.google.com/drive/u/2/folders/1ySG6PORa59TpDHTIxddMhoU7m5_sbe6N)
+
 **Advertisers, Provenance, and Policy: A 30-Country Audit of Children’s YouTube Ads**  
 <u>Abdullah Ghani</u>, Yahya Khawaja, Usman Naseem, Ihsan Ayyub Qazi, Zafar Ayyub Qazi.  
 <b>The ACM Web Conference (WWW) 2026.</b>, *under review*.  
 
-**Scaling Truth: The Confidence Paradox in AI Fact-Checking**  
-Ihsan Ayyub Qazi, Zohaib Khan, <u>Abdullah Ghani</u>, Agha Ali Raza, Zafar Ayyub Qazi, Wassay Sajjad, Ayesha Ali, Asher Javaid, Muhammad Abdullah Sohail, Abdul Hameed Azeemi<br>
-<b>Nature Scientific Reports</b>, *R&R*.<br>
-[PDF](/files/scaling_truth.pdf) | [Code](https://drive.google.com/drive/u/2/folders/1ySG6PORa59TpDHTIxddMhoU7m5_sbe6N) | [Data](https://drive.google.com/drive/u/2/folders/1ySG6PORa59TpDHTIxddMhoU7m5_sbe6N)
+
 
 
 ## Other Research Projects
