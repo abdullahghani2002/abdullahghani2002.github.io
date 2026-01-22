@@ -30,7 +30,7 @@ Ihsan Ayyub Qazi, Zohaib Khan, <u>Abdullah Ghani</u>, Agha Ali Raza, Zafar Ayyub
 
 **Advertisers, Provenance, and Policy: A 30-Country Audit of Children’s YouTube Ads**  
 <u>Abdullah Ghani</u>, Yahya Khawaja, Usman Naseem, Ihsan Ayyub Qazi, Zafar Ayyub Qazi.  
-<b>AAAI ICWSM</b>, *under review*.  
+*Under Review*.  
 
 
 
@@ -49,7 +49,7 @@ In addition to the aforementioned projects, I have also contributed to the follo
 
 ### Current & Ongoing Research
 As the lead of the Internet, Data, and Society lab, I am currently working on the following problems:
-*   **Fidelity of LLMs in Clinical Settings:** Evaluating the clinical fidelity of Large Language Models on real-world medical vignettes. *Findings targeted for BMJ Digital Health & AI*.
+*   **Fidelity of LLMs in Clinical Settings:** Evaluating the clinical fidelity of Large Language Models on real-world medical vignettes.
 *   **Disinformation Dynamics in Geopolitical Conflicts:** Conducting a systematic, cross-platform analysis of the spread and engagement dynamics of disinformation during a geopolitical conflict.
 *   **Reasoning and Bias in LLMs as Participants:** Investigating the reasoning behaviors and regional biases manifested when using LLMs as participants.
 
