@@ -30,7 +30,7 @@ Ihsan Ayyub Qazi, Zohaib Khan, <u>Abdullah Ghani</u>, Agha Ali Raza, Zafar Ayyub
 
 **Advertisers, Provenance, and Policy: A 30-Country Audit of Children’s YouTube Ads**  
 <u>Abdullah Ghani</u>, Yahya Khawaja, Usman Naseem, Ihsan Ayyub Qazi, Zafar Ayyub Qazi.  
-<b>The ACM Web Conference (WWW) 2026.</b>, *under review*.  
+<b>AAAI ICWSM</b>, *under review*.  
 
 
 
