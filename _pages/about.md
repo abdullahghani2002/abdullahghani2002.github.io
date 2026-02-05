@@ -28,7 +28,7 @@ Ihsan Ayyub Qazi, Zohaib Khan, <u>Abdullah Ghani</u>, Agha Ali Raza, Zafar Ayyub
 <b>Nature Scientific Reports</b>.<br>
 [PDF](/files/scaling_truth.pdf) | [Code](https://drive.google.com/drive/u/2/folders/1ySG6PORa59TpDHTIxddMhoU7m5_sbe6N) | [Data](https://drive.google.com/drive/u/2/folders/1ySG6PORa59TpDHTIxddMhoU7m5_sbe6N)
 
-**Advertisers, Provenance, and Policy: A 30-Country Audit of Children’s YouTube Ads**  
+**Advertisers, Provenance, and Safety: A 30-Country Audit of Children’s YouTube Ads**  
 <u>Abdullah Ghani</u>, Yahya Khawaja, Usman Naseem, Ihsan Ayyub Qazi, Zafar Ayyub Qazi.  
 *Under Review*.  
 
