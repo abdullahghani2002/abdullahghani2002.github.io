@@ -12,7 +12,7 @@ redirect_from:
 
 I am broadly interested in networked systems. Recently, I graduated from the Lahore University of Management Sciences, Pakistan with a 4.00/4.00, joint-highest in my batch (1/274), advised by **[Dr. Ihsan Ayyub Qazi](https://ihsanqazi.com)** and **[Dr. Zafar Ayyub Qazi](https://www.lums.edu.pk/lums_employee/3337)**.
 
- Previously, I have worked extensively on building a framework to longitudinally investigate how online trackers on sensitive websites compromise user privacy (one-shot revision, IMC 2025, advised by **[Dr. Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/)**), conducting an advertiser-level audit across 30 countries to evaluate global disparities in child-safety practices in children’s video advertising and building a scalable method to mitigate associated risks (under review, AAAI ICWSM), and examining the risks and opportunities of large language models (LLMs) in multilingual, global fact-checking (Accepted @ Nature Scientific Reports).
+ Previously, I have worked extensively on building a framework to longitudinally investigate how online trackers on sensitive websites compromise user privacy (Accepted @ IMC 2026, advised by **[Dr. Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/)**), conducting an advertiser-level audit across 30 countries to evaluate global disparities in child-safety practices in children’s video advertising and building a scalable method to mitigate associated risks (under review, AAAI ICWSM), and examining the risks and opportunities of large language models (LLMs) in multilingual, global fact-checking (Accepted @ Nature Scientific Reports).
 
 I am currently seeking Ph.D. positions for Fall 2026.
 
@@ -20,12 +20,12 @@ I am currently seeking Ph.D. positions for Fall 2026.
 
 **PixelConfig: Longitudinal Measurement and Reverse-Engineering of Meta Pixel Configurations**  
 <u>Abdullah Ghani</u>, Yash Vekaria, Zubair Shafiq.  
-<b>ACM Internet Measurement Conference (IMC) 2025</b>, *one-shot revision*.  
+<b>ACM Internet Measurement Conference (IMC) 2026</b>.  
 [PDF](/files/pixelconfig.pdf) | [Code](After Publication) | [Tool](https://pixel-frontend-1glb.onrender.com/)
 
 **Scaling Truth: The Confidence Paradox in AI Fact-Checking**  
 Ihsan Ayyub Qazi, Zohaib Khan, <u>Abdullah Ghani</u>, Agha Ali Raza, Zafar Ayyub Qazi, Wassay Sajjad, Ayesha Ali, Asher Javaid, Muhammad Abdullah Sohail, Abdul Hameed Azeemi<br>
-<b>Nature Scientific Reports</b>, *Accepted*.<br>
+<b>Nature Scientific Reports</b>
 [PDF](/files/scaling_truth.pdf) | [Code](https://drive.google.com/drive/u/2/folders/1ySG6PORa59TpDHTIxddMhoU7m5_sbe6N) | [Data](https://drive.google.com/drive/u/2/folders/1ySG6PORa59TpDHTIxddMhoU7m5_sbe6N)
 
 **Advertisers, Provenance, and Policy: A 30-Country Audit of Children’s YouTube Ads**  
