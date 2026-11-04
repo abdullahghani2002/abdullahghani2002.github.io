@@ -12,9 +12,9 @@ redirect_from:
 
 I am broadly interested in networked systems. Recently, I graduated from the Lahore University of Management Sciences, Pakistan with a 4.00/4.00, joint-highest in my batch (1/274), advised by **[Dr. Ihsan Ayyub Qazi](https://ihsanqazi.com)** and **[Dr. Zafar Ayyub Qazi](https://www.lums.edu.pk/lums_employee/3337)**.
 
- Previously, I have worked extensively on building a framework to longitudinally investigate how online trackers on sensitive websites compromise user privacy (Accepted @ IMC 2026, advised by **[Dr. Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/)**), conducting an advertiser-level audit across 30 countries to evaluate global disparities in child-safety practices in children’s video advertising and building a scalable method to mitigate associated risks (under review, AAAI ICWSM), and examining the risks and opportunities of large language models (LLMs) in multilingual, global fact-checking (Accepted @ Nature Scientific Reports).
+ Previously, I have worked extensively on building a framework to longitudinally investigate how online trackers on sensitive websites compromise user privacy (Accepted @ IMC 2026, advised by **[Dr. Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/)**), conducting an advertiser-level audit across 30 countries to evaluate global disparities in child-safety practices in children’s video advertising and building a scalable method to mitigate associated risks (under review, WWW 2027), and examining the risks and opportunities of large language models (LLMs) in multilingual, global fact-checking (Accepted @ Nature Scientific Reports).
 
-I am currently seeking Ph.D. positions for Fall 2026.
+I am currently seeking Ph.D. positions for Fall 2027.
 
 ## Publications
 
@@ -48,9 +48,8 @@ In addition to the aforementioned projects, I have also contributed to the follo
 
 
 ### Current & Ongoing Research
-As the lead of the Internet, Data, and Society lab, I am currently working on the following problems:
-*   **Fidelity of LLMs in Clinical Settings:** Evaluating the clinical fidelity of Large Language Models on real-world medical vignettes.
-*   **Disinformation Dynamics in Geopolitical Conflicts:** Conducting a systematic, cross-platform analysis of the spread and engagement dynamics of disinformation during a geopolitical conflict.
+I am currently working on the following problems:
+*   **Improvising LLMs for Healthcare:** Improvising how LLMs healthcare risks can be mitigated for the general population, combining my experience with LLMs, large-scale data analysis, with a randomized controlled trial.
 *   **Reasoning and Bias in LLMs as Participants:** Investigating the reasoning behaviors and regional biases manifested when using LLMs as participants.
 
 ## Development & Software Projects
@@ -73,7 +72,7 @@ Beyond my formal research, I enjoy building software that solves interesting tec
 
 ## Teaching Experience
 
-1. **Topics in Large Language Models: Systems and Applications** (Ongoing)
+1. **Topics in Large Language Models: Systems and Applications** (Fall 2025)
 1. **Data Science**                                              (Fall 2024)  
 2. **Data Structures**                                           (Spring 2024)  
 3. **Discrete Mathematics**                                      (Fall 2023)  
@@ -86,6 +85,8 @@ Apart from solidifying my own understanding of these subjects in unanticipated w
 
 ## Awards and Honours
 
+- **Vicky Noon Scholarship**: Recipient of the Vicky Noon Scholarship (Cambridge Trust) to attend MPhil at the University of Cambridge. Awarded to a single Pakistani per year only.  
+- **ACM IMC Travel grant**: Received a travel grant of $1500 to attend ACM IMC in Karlsruhe, Germany.  
 - **Full Merit Scholarship Award**: Granted to the top 1% students from LUMS SBASSE Batch of 2025 from the 2022-2025 academic years.  
 - **Dean’s Honour List**: Consecutively awarded from 2021-2025 academic years.  
 - **Top Candidate at School (A Levels)**: Achieved the highest grades at Lahore Grammar School Defence.  
