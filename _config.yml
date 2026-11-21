@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Abdullah's Homepage"
 title_separator          : "-"
 name                     : &name "Abdullah Ghani"
-description              : &description "BS CS @ LUMS"
+description              : &description "MPhil ACS @ Cambridge"
 url                      : https://abdullahghani2002.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abdullahghani2002/abdullahghani2002.github.io"
@@ -24,13 +24,14 @@ author:
   avatar           : "profile.png"
   name             : "Abdullah Ghani"
   pronouns         : # example: ""  
-  bio              : "BS Computer Science (2025), Lahore University of Management Sciences (LUMS)"
-  location         : "Lahore, Pakistan"
-  employer         : "LUMS"
+  bio              : "MPhil in Advanced Computer Science, King's College, University of Cambridge"
+  location         : "Cambridge, UK"
+  employer         : "University of Cambridge"
   uri              : # URL
-  email            : "abdullah.ghani@lums.edu.pk" 
+  email            : "ag2591@cam.ac.uk" 
 
   # Academic websites
+  googlescholar    : "https://scholar.google.com/citations?user=hMGu0CwAAAAJ"
   arxiv            : # URL - Update with the correct link to your profile
   impactstory      : # URL
   orcid            : # URL
@@ -48,6 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
+  linkedin         : "abdullah--ghani"
 
 
 # Publication Category - The following the list of publication categories and their headings
