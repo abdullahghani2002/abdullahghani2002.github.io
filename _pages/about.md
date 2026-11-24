@@ -10,7 +10,7 @@ redirect_from:
 - ag2591 [at] cam [dot] ac [dot] uk
 - abdullahghani2002 [at] gmail [dot] com
 
-I am broadly interested in networked sociotechnical systems, with a focus on security and privacy. I am currently pursuing an MPhil in Advanced Computer Science at **King's College, University of Cambridge** as a Cambridge Trust Scholar, where I also serve as the Student Representative for the MPhil ACS. For my MPhil thesis at the **[Cambridge Cybercrime Centre](https://www.cambridgecybercrime.uk/)**, I am working with **[Prof. Alice Hutchings](https://www.cst.cam.ac.uk/people/ah793)** on a longitudinal study of how attackers build and share configurations for account-cracking tools on Telegram.
+I am broadly interested in networked systems, with a focus on security and privacy. I am currently pursuing an MPhil in Advanced Computer Science at **King's College, University of Cambridge** as a Cambridge Trust Scholar, where I also serve as the Student Representative for the MPhil ACS. For my MPhil thesis at the **[Cambridge Cybercrime Centre](https://www.cambridgecybercrime.uk/)**, I am working with **[Prof. Alice Hutchings](https://www.cst.cam.ac.uk/people/ah793)** on a longitudinal study of how attackers build and share configurations for account-cracking tools on Telegram.
 
 Before Cambridge, I graduated from the Lahore University of Management Sciences, Pakistan with a 4.00/4.00, joint-highest in my batch (1/165), advised by **[Dr. Ihsan Ayyub Qazi](https://ihsanqazi.com)** and **[Dr. Zafar Ayyub Qazi](https://www.lums.edu.pk/lums_employee/3337)**.
 
